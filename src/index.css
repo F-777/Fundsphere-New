@@ -1294,6 +1294,7 @@ input:checked + .slider {
   footer {
     background-color: #0c1220;
     padding-top: 7.5rem;
+    padding-bottom: 3rem;
     color: #adb5bd;
     font-family: Arial, sans-serif;
   }
