@@ -1377,7 +1377,9 @@ input:checked + .slider {
   }
   
   .footer-bottom .copy-right {
-    color: #6c757d;
+    color: #635BFF;
+    font-family: 'DM Sans',sans-serif;
+    font-weight: 500;
   }
   
   .footer-bottom .footer-icon img {
