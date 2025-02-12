@@ -1,0 +1,32 @@
+@media (min-width: 768px) and (max-width: 1024px) {
+    /* Pastikan container pricing card tersusun dengan baik */
+    .package-container {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+        gap: 20px;
+        padding: 20px;
+    }
+
+    /* Pastikan setiap card memiliki lebar yang cukup */
+    .package-card-bsc,
+    .package-card-pro,
+    .package-card-eps {
+        width: 45%;  /* Agar 2 kolom di tablet */
+        max-width: 400px;
+        min-width: 300px;
+    }
+
+    /* Perbaikan ukuran teks agar tidak terlalu besar di tablet */
+    .plan-heading-bsc,
+    .plan-heading-pro,
+    .plan-heading-eps {
+        font-size: 24px;
+    }
+
+    /* Perbaikan button agar tetap proporsional */
+    .book-demo-btn {
+        padding: 10px 16px;
+        font-size: 16px;
+    }
+}
