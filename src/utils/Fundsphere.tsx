@@ -1,6 +1,7 @@
 import { useEffect } from "react";
 import gsap from "gsap";
 import { ScrollTrigger } from "gsap/ScrollTrigger";
+import '../utils/responsive-tablet.css';
 import '../index.css';
 import Amazon from '../assets/amazon.svg';
 import Ebay from '../assets/ebay.svg';
