@@ -431,7 +431,7 @@ function Fundsphere() {
                                 <div className="CTA-content">
                                     <h2 className="CTA-heading">Get started today for <br /> better future finance</h2>
                                     <div className="CTA-Right">
-                                        <p>Fundsphere is a compass for business leaders, <br /> scale with checking and savings accounts, <br /> custom tools, and access to our investor network.</p>
+                                        <p>Fundsphere is a compass for business leaders,  scale with <br /> checking and savings accounts,  custom tools, and <br /> access to our investor network.</p>
                                         <form action="input">
                                             <div className="cta-btn-wrapper">
                                                 <button type="submit">Get Started</button>
