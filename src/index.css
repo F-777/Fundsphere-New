@@ -589,13 +589,13 @@
 .features-content {
     display: flex;
     flex-direction: column;
-    gap: 20px;
+    gap: 40px;
 }
 
 .features-wrapper-up,
 .features-wrapper-low {
     display: flex;
-    gap: 20px;
+    gap: 40px;
 }
 
 .features-card-wrapper-1, .features-card-wrapper-2, 
